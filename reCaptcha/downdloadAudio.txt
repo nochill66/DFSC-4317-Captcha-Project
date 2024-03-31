@@ -1,0 +1,5 @@
+// const downloadPromise = page.waitForEvent('download');
+            // await page.getByRole('link', { name: 'Speak the CAPTCHA code' }).click();
+            // const download = await downloadPromise;
+
+            // await download.saveAs('./tests/' + download.suggestedFilename());
